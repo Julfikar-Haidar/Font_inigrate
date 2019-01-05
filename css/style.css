@@ -1,0 +1,21 @@
+/*font-family: 'Playfair Display', serif;*/
+
+.play{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+
+}
+@font-face{
+	font-family:RalewayBold ;
+	src:url(../fonts/RalewayBold.ttf);
+}
+p{
+	font-family:RalewayBold;
+}
+@font-face{
+	font-family: GreatVibesRegular;
+	src:url(../fonts/GreatVibesRegular.otf);
+}
+h2{
+	font-family:GreatVibesRegular;
+}
